@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(210, 210, 145);
+}
+
+.header {
+    background-color:red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.services-container {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+}
+
+.service {
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.service h3 {
+    margin-top: 0;
+}
+
+.contact-container {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.contact-container p {
+    font-size: 1.2em;
+}
